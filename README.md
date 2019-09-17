@@ -2,7 +2,7 @@
 iOS聊天输入框
 
 GYChatMacro.h 
-  宏定义（详细可见：https://github.com/itgyy/GYMacro）
+  宏定义（详细可见：https://github.com/itgyy/GYMacro ）
 
 1、下载-> 进入工程目录-> pod install
 2、引入
